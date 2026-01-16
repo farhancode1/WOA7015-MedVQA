@@ -30,6 +30,8 @@ Install dependencies:
 Mohd Farhan  
 WOA7015 – Medical Visual Question Answering
 
+## Note on Notebook Rendering
+
 Some notebooks were originally developed and executed in Google Colab and
 contain interactive outputs or widget metadata that may not render correctly
 on GitHub’s notebook viewer.
@@ -37,3 +39,7 @@ on GitHub’s notebook viewer.
 To ensure compatibility and readability on GitHub, all notebook outputs have
 been cleared before uploading. All experiments, results, and figures are fully
 reproducible by running the notebooks locally or in Google Colab.
+
+All key quantitative results and figures referenced in the report are also
+provided in the `results/` directory of this repository.
+
