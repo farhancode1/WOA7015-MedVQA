@@ -26,3 +26,6 @@ Grad-CAM is used to visualize image regions influencing CNN-GRU predictions.
 
 ## How to Run
 Install dependencies:
+## Author
+Mohd Farhan  
+WOA7015 – Medical Visual Question Answering
