@@ -1,0 +1,2 @@
+trainable params: 1,916,928 || all params: 2,925,383,408 || trainable%: 0.0655
+Approximate PaliGemma + LoRA Yes/No Accuracy: 0.4879518072289157

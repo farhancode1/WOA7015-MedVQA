@@ -1,0 +1,4 @@
+Closed_ended=Approximate PaliGemma Yes/No Accuracy: 0.5903614457831325
+Answer Coverage (non-unknown): 0.9939759036144579
+
+Open_ended=Approximate keyword match rate (open-ended): 0.21052631578947367
